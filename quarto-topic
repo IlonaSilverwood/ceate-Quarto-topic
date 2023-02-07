@@ -2,7 +2,7 @@
 aliases: quarto-pub
 display_name: quarto
 logo: 
-related: pdf-reader, pdf, pdf-editor, document-management, publishing, quarto-pub
+related: pdf, pdf-editor, document-management, publishing, quarto-pub
 short_description: Quarto® is an open-source scientific and technical publishing system built on Pandoc.
 topic: quarto
 url: https://quarto.org/
