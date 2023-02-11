@@ -13,7 +13,7 @@ publishing system. Built on pandoc, it allows for the creation of reports,
 documents, websites, blogs, presentations, books, and articles in a [variety of
 formats](https://quarto.org/docs/output-formats/all-formats.html). 
 
-Quarto works with several code editors, including
+Quarto is supported by several code editors, including
 [JupyterLab](https://quarto.org/docs/tools/jupyter-lab.html), [VS
 Code](https://quarto.org/docs/tools/vscode.html), and
 [Neovim](https://quarto.org/docs/tools/neovim.html), as well as [text
