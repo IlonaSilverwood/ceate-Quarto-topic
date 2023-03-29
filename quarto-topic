@@ -20,7 +20,7 @@ Code](https://quarto.org/docs/tools/vscode.html), and
 editors](https://quarto.org/docs/tools/text-editors.html). It also has a
 powerful [visual editor](https://quarto.org/docs/visual-editor/) for pandoc
 Markdown. The output can be modified and extended via
-[extensions](https://quarto.org/docs/extensions/), and Quarto also supports the
+[extensions](https://quarto.org/docs/extensions/), and Quarto supports the
 creation of [custom
 extensions](https://quarto.org/docs/extensions/creating.html).
 
